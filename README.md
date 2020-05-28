@@ -6,3 +6,4 @@
 4. https://stackoverflow.com/questions/54115485/how-do-i-run-two-python-flask-applicationproject-on-server-in-parallel
 5. https://medium.com/javascript-in-plain-english/https-medium-com-javascript-in-plain-english-stop-feeling-iffy-about-using-an-iife-7b0292aba174
 6. https://www.mongodb.com/blog/post/serverless-development-with-nodejs-aws-lambda-mongodb-atlas
+7. https://docs.atlas.mongodb.com/best-practices-connecting-to-aws-lambda/
