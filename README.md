@@ -7,3 +7,6 @@
 5. https://medium.com/javascript-in-plain-english/https-medium-com-javascript-in-plain-english-stop-feeling-iffy-about-using-an-iife-7b0292aba174
 6. https://www.mongodb.com/blog/post/serverless-development-with-nodejs-aws-lambda-mongodb-atlas
 7. https://docs.atlas.mongodb.com/best-practices-connecting-to-aws-lambda/
+
+## Best intro to serverless
+1. https://blog.eduonix.com/web-programming-tutorials/serverless-development-nodejs-aws-lambda/
